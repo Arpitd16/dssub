@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "STCK.C": "cpp",
+        "QUEUE.C": "cpp",
+        "CIRCULARQUEUE.C": "cpp"
+    }
+}
